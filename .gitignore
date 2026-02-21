@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Rider/JetBrains
+.idea/
+
+# Logs
+*.log
+
+# SQLite DB files (we will generate later)
+*.db
